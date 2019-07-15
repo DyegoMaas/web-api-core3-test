@@ -10,6 +10,8 @@
       <e p="Controllers" t="Include">
         <e p="ValuesController.cs" t="Include" />
       </e>
+      <e p="docker-compose.yml" t="Include" />
+      <e p="Dockerfile" t="Include" />
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
           <e p="netcoreapp2.2" t="Include">

@@ -1,0 +1,6 @@
+version: "3"
+services:
+  web-api-x:
+    build: .
+    ports:
+      - "3000:80"
